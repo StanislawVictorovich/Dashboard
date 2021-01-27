@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# Simple Dasgboard Application on Vue 2.6.11 and Google Material Design library
+# Simple Dashboard Application on Vue 2.6.11 and Google Material Design library
 
 <p align="center">
   <a href="https://github.com/vuejs/vue">
